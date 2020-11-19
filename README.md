@@ -6,3 +6,6 @@ Needed a way to keep my laptop from locking because due to some access issues, i
 
 # Notes
 Got the idea from https://code.joejag.com/2013/move-your-mouse-pointer-with-java.html, but added tweaks so that it would only move the mouse 1 pixel diagnolly.  
+
+# Compile
+`javac MouseMover.java`
